@@ -69,6 +69,3 @@ Utilizando un Arduino Nano (`atmega328p`), `8 LEDs` y `4 Pulsadores` se pide:
 ---
 # clases grabadas que les pueden ser útilies 
 
-https://youtu.be/d31z41HEqYc
-
-https://youtu.be/fxlX5XlZAaM
